@@ -1,1 +1,2 @@
 this code uses OpenGL to create a 3D maze, although the maze is not very complicated and just a model, but it is a good way to understand the OpenGL concepts.
+To run this code, your computer have to setup with glut glew and opencv.
